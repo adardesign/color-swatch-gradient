@@ -2,7 +2,8 @@
 
 
 ### Description
-![image-swatches](./images/image-swatches.png?raw=true)
+
+![image-swatches](https://raw.githubusercontent.com/adardesign/color-swatch-gradient/master/images/image-swatches.png)
 
 this package allows you to generate multi color swatches on the fly 
 
