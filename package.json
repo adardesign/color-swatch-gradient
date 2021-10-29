@@ -1,0 +1,16 @@
+{
+  "name": "color-swatch-gradient",
+  "version": "0.0.1",
+  "description": "A color swatch gradient generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "swatch",
+    "gradient"
+  ],
+  "author": "Eliazer Braun",
+  "license": "ISC"
+}
